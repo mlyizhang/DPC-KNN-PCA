@@ -5,7 +5,7 @@
 This is experiment version, we fine-turn parameters, all the data clustering results are same as the DPC-PCA-KNN in the original paper. Thus, this code is  consistent with the idea of DPC-PCA-KNN clustering.<br>
 % ####parameter information######%<br>
 % d---reduce the original data to the d dimension by PCA.<br>
-% k---the parameter of KNN: k nearest data points, <br>
+% $k$---the parameter of KNN: k nearest data points, <br>
 % percent--- the parameter of DPC<br>
 %############################<br>
 start the DPC_PCA_KNN.m<br>
